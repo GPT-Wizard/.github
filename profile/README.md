@@ -1,6 +1,6 @@
 # GPT Wizards Community
 
-![GPT Wizards](<https://raw.githubusercontent.com/GPT-Wizard/.github/main/gpt-wizard%20(1).png>)
+<div align="center"><img src="https://raw.githubusercontent.com/GPT-Wizard/.github/main/gpt-wizard%20(1).png" alt="GPT Wizards" /></div>
 
 Welcome to the GPT Wizards community! We're a group of technologists and AI enthusiasts who are exploring the capabilities of OpenAI's GPT and developing new and innovative applications. This community is backed by Thoughtworks and open to all contributors who are interested in exploring the potential of GPT.
 
@@ -24,5 +24,5 @@ To maintain the security and privacy of the data shared through this initiative,
 
 This initiative is powered by [OpenAI](https://openai.com) and backed by [Thoughtworks](https://thoughtworks.com).
 
-<img src="https://venturebeat.com/wp-content/uploads/2019/03/openai-1.png" alt="OpenAI Logo" width="100"/> 
-<br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Thoughtworks_logo.png/640px-Thoughtworks_logo.png" alt="Thoughtworks Logo" width="100"/>
+<img src="https://venturebeat.com/wp-content/uploads/2019/03/openai-1.png" alt="OpenAI Logo" height="45"/>
+<img src="https://images.ctfassets.net/a0typynlh1op/1RKOXd86ofhr960Pw6FxEb/b9a9ac9483db17c445951f3ad14ed056/thoughtworks-gpt.png?fm=jpg&fl=progressive" alt="Thoughtworks Logo" height="45"/>
