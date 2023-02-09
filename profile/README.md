@@ -24,5 +24,5 @@ To maintain the security and privacy of the data shared through this initiative,
 
 This initiative is powered by [OpenAI](https://openai.com) and backed by [Thoughtworks](https://thoughtworks.com).
 
-<img src="https://images.otta.com/search/width_400/Y29tcGFueS1sb2dvcy80MjI2LTdtbWFPWWl3eDlySURWRHJ6NVZYUDJNYk0tSzlkTGFUVmFtUE5MV2JrblkucG5n.png" alt="OpenAI Logo" width="100"/> 
+<img src="[https://images.otta.com/search/width_400/Y29tcGFueS1sb2dvcy80MjI2LTdtbWFPWWl3eDlySURWRHJ6NVZYUDJNYk0tSzlkTGFUVmFtUE5MV2JrblkucG5n.png](https://venturebeat.com/wp-content/uploads/2019/03/openai-1.png" alt="OpenAI Logo" width="100"/> 
 <br><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Thoughtworks_logo.png/640px-Thoughtworks_logo.png" alt="Thoughtworks Logo" width="100"/>
