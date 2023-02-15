@@ -1,6 +1,6 @@
 # GPT Wizards Community
 
-<div align="center"><img src="https://raw.githubusercontent.com/GPT-Wizard/.github/main/gpt-wizard(1).png" alt="GPT Wizards" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/GPT-Wizard/.github/main/gpt-wizard%20(1).png" alt="GPT Wizards" /></div>
 
 Welcome to the GPT Wizards community! We're a group of technologists and AI enthusiasts who are exploring the capabilities of OpenAI's GPT and developing new and innovative applications. This community is backed by Thoughtworks and open to all contributors who are interested in exploring the potential of GPT.
 
